@@ -11,7 +11,7 @@ var text =
 const Container = () => {
   return (
     <div className="main_container">
-      <LoginForm />
+      <Searchbar />
     </div>
   );
 };
